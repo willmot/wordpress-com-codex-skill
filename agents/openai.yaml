@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: WordPress.com MCP
+  short_description: Connect MCP clients to WordPress.com via OAuth and verify tool access.
+  default_prompt: Connect my WordPress.com account through MCP and verify I can list my sites and latest posts.
